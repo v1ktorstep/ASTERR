@@ -1,4 +1,4 @@
 {
-	"recursion_limit": 100,
-	"allowed_modules": []
+	"recursion_limit": 1000,
+	"allowed_modules": ["*"]
 }
